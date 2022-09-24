@@ -1,0 +1,38 @@
+﻿div.carousel-caption {
+	background-color: rgba(255, 255, 255, 0.5);
+}
+
+div.carousel-caption>h1,p {
+	color: black;
+}
+
+.modal:before {
+	content: '';
+	background: #000;
+	position: fixed; 
+	left: 0;
+	top: 0;
+	width: 100%; 
+	height: 100%;
+	opacity: 0.7;
+}
+
+h2.featurette-heading {
+	margin-top: 0px;
+}
+
+.entrance {
+	margin-top: 200px;
+	text-align: center;
+}
+
+.entrance>ul {
+	display: inline;
+}
+
+.entrance a {
+	text-decoration: none;
+}
+
+
+
